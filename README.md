@@ -1,5 +1,5 @@
 # puppy_bye
 
-Based on Github Pages.
-给晓宇的分手道别书。
-Saying goodbye to my ex-girlfriend.
+给晓宇的分手道别书。  
+Saying goodbye to my dear ex-girlfriend.  
+Based on Github Pages.  
